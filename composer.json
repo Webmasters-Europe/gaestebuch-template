@@ -1,5 +1,13 @@
 {
-    "require-dev": {
+    "name": "cosnavel/gaestebuch-template",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Cosnavel",
+            "email": "coding@niclaskahlmeier.de"
+        }
+    ],
+    "require": {
         "nunomaduro/phpinsights": "^1.14"
     }
 }
